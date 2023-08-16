@@ -298,3 +298,8 @@ padding: 0 10%;}
 img {
     width:100%;
 }
+
+@media screen and (max-width: 768px) {
+    .home-content h1 {
+        font-size: 37px;
+}
